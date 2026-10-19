@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261018-192504-x6si",
+      "title": "Esdeath Muken",
+      "commanders": [
+        "Esdeath Muken"
+      ],
+      "guild": {
+        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+        "name": "The Ironclaw Dominion",
+        "tag": "Iron"
+      },
+      "dateStart": "2026-10-19T00:25:04.000Z",
+      "dateEnd": "2026-10-19T01:17:29.024Z",
+      "dateLabel": "18/10/2026, 19:25:04 - 18/10/2026, 20:17:29",
+      "url": "https://Kaszu778.github.io/REPORTE-fights/?report=20261018-192504-x6si",
+      "publishedBy": "Kaszu778",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 25
+      }
+    },
     {
       "id": "20261017-202148-x928",
       "title": "Esdeath Muken, Heavy Arrow",
