@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261030-210849-oqxc",
+      "title": "Esdeath Muken",
+      "commanders": [
+        "Esdeath Muken"
+      ],
+      "guild": {
+        "id": "3806E1C9-7F3A-E711-80D4-E4115BD76FFD",
+        "name": "G H O S T",
+        "tag": "Ghst"
+      },
+      "dateStart": "2026-10-31T02:08:49.000Z",
+      "dateEnd": "2026-10-31T02:46:23.911Z",
+      "dateLabel": "30/10/2026, 21:08:49 - 30/10/2026, 21:46:23",
+      "url": "https://Kaszu778.github.io/REPORTE-fights/?report=20261030-210849-oqxc",
+      "publishedBy": "Kaszu778",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261028-185819-wd8s",
       "title": "Esdeath Muken",
       "commanders": [
