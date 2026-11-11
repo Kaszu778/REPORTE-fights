@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261110-194824-o0d1",
+      "title": "Esdeath Muken",
+      "commanders": [
+        "Esdeath Muken"
+      ],
+      "guild": {
+        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+        "name": "The Ironclaw Dominion",
+        "tag": "Iron"
+      },
+      "dateStart": "2026-11-11T00:48:24.000Z",
+      "dateEnd": "2026-11-11T01:36:51.980Z",
+      "dateLabel": "10/11/2026, 19:48:24 - 10/11/2026, 20:36:51",
+      "url": "https://Kaszu778.github.io/REPORTE-fights/?report=20261110-194824-o0d1",
+      "publishedBy": "Kaszu778",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20261108-200448-d2eb",
       "title": "Esdeath Muken",
       "commanders": [
