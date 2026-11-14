@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261113-211229-lxw7",
+      "title": "Esdeath Mx",
+      "commanders": [
+        "Esdeath Mx"
+      ],
+      "guild": {
+        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+        "name": "The Ironclaw Dominion",
+        "tag": "Iron"
+      },
+      "dateStart": "2026-11-14T02:12:29.000Z",
+      "dateEnd": "2026-11-14T03:10:01.908Z",
+      "dateLabel": "13/11/2026, 21:12:29 - 13/11/2026, 22:10:01",
+      "url": "https://Kaszu778.github.io/REPORTE-fights/?report=20261113-211229-lxw7",
+      "publishedBy": "Kaszu778",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 34,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 23
+      }
+    },
     {
       "id": "20261113-211229-9y1i",
       "title": "Esdeath Mx",
