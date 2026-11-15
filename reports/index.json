@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261114-194202-hz9u",
+      "title": "Esdeath Mx",
+      "commanders": [
+        "Esdeath Mx"
+      ],
+      "guild": {
+        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+        "name": "The Ironclaw Dominion",
+        "tag": "Iron"
+      },
+      "dateStart": "2026-11-15T00:42:02.000Z",
+      "dateEnd": "2026-11-15T01:22:51.558Z",
+      "dateLabel": "14/11/2026, 19:42:02 - 14/11/2026, 20:22:51",
+      "url": "https://Kaszu778.github.io/REPORTE-fights/?report=20261114-194202-hz9u",
+      "publishedBy": "Kaszu778",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 44,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261113-211229-lxw7",
       "title": "Esdeath Mx",
       "commanders": [
